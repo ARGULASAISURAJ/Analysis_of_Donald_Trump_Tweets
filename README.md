@@ -8,7 +8,8 @@ The data is sourced form website - http://www.trumptwitterarchive.com/
 The analysis includes how tweet counts, frequently tweeted words, Twitter handles, and tweet sentiment changed from year to year.
 Note:- Please reload if jupyter notebook(ipynb file)code didn't load or download html version and view in a browser. 
 
-Observations:-
+**Observations:-**
+
 **Donald Trump Tweet Count by Year**
 1. Tweet Counts decreased from 2015 to 2017 and increased from 2018 to 2020. The first year of his presidency has least tweets which is less than half the initial number of tweets, however there was an increase in tweets after becoming president in 2017 till 2020 ,with highest more than 8000 tweets in 2020(even before year year completion) nearly thrice the amount of the least tweets in 2017.
 
