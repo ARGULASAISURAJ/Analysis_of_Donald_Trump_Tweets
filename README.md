@@ -5,6 +5,9 @@ Trump tweet handle - @realdonaldtrump
 The data is sourced form website - http://www.trumptwitterarchive.com/
 (Will add code to source/scrape data from a handle through Twitter developer API)
 
+**Sanapshot of Dataset**
+![Dataset Preview](https://github.com/ARGULASAISURAJ/Analysis_of_Donald_Trump_Tweets/blob/main/Pic.PNG)
+
 The analysis includes how tweet counts, frequently tweeted words, Twitter handles, and tweet sentiment changed from year to year.
 Note:- Please reload if jupyter notebook(ipynb file)code didn't load or download html version and view in a browser. 
 
