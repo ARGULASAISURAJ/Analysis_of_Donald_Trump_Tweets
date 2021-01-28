@@ -1,11 +1,14 @@
 # Analysis_of_Donald_Trump_Tweets
 
 This project is regarding the analysis of Tweets from Donald Trump, U.S president (2016-2020) from Jan 2015 to 17/09/2020.
+
 Trump tweet handle - @realdonaldtrump
+
 The data is sourced form website - http://www.trumptwitterarchive.com/
 (Will add code to source/scrape data from a handle through Twitter developer API)
 
 **Sanapshot of Dataset**
+
 ![Dataset Preview](https://github.com/ARGULASAISURAJ/Analysis_of_Donald_Trump_Tweets/blob/main/Pic.PNG)
 
 The analysis includes how tweet counts, frequently tweeted words, Twitter handles, and tweet sentiment changed from year to year.
@@ -30,3 +33,9 @@ Note:- Please reload if jupyter notebook(ipynb file)code didn't load or download
 
 **Trump tweet sentiment analysis over years**
 From the above graphs we can see Tweets of Donald trump are mostly positive and neutral over the years. There has been a steady increase of negative tweets proportion and decrease of positive tweets proportion over the years 2015 to 2020(visible from the area of graphs). one pecuilar thing is that tweets in 2017 has more negative tweets i.e, with polariy of ~ 1, whereas other years the negativie polarity was max at ~0.5.
+
+Thanks
+Sai Suraj Argula
+Phone no - +1 8135396715
+LinkedIn - https://www.linkedin.com/in/suraj-argula/
+Website - https://argulasaisuraj.github.io/Suraj_Website/
